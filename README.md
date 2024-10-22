@@ -1,7 +1,7 @@
 # Implement-DES-Encryption-and-Decryption
-# AIM
+## AIM
 To encrypt and decrypt the given message using the DES (Data Encryption Standard) algorithm.
-# ALGORITHM :
+## ALGORITHM :
 Step 1:
 Design of the DES algorithm.
 
@@ -17,7 +17,7 @@ The encryption process involves 16 rounds of these transformations.
 Step 5:
 The decryption process reverses the steps to retrieve the original message.
 
-# PROGRAM :
+## PROGRAM :
 ```
 #include <stdio.h>
 #include <string.h>
@@ -62,9 +62,9 @@ int main() {
     return 0;
 }
 ```
-# OUTPUT:
+## OUTPUT:
 
 ![Screenshot 2024-10-13 161718](https://github.com/user-attachments/assets/10d14bbc-37a8-488b-97de-01ebeb8e923f)
 
-# RESULT:
+## RESULT:
 The program for DES algorithm is executed successfully.
